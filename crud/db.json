@@ -1,0 +1,19 @@
+{
+    "players": [
+        {
+            "id": 1,
+            "name": "Magrão",
+            "position": "GoalKepper"
+        },
+        {
+            "id": 2,
+            "name": "Diego Souza",
+            "position": "Attacker"
+        },
+        {
+            "id": 3,
+            "name": "Durval",
+            "position": "Defender"
+        }
+    ]
+}
