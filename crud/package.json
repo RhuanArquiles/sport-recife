@@ -7,7 +7,7 @@
     "start": "json-server --watch db.json --port 3001"
   },
   "keywords": [],
-  "author": "",
+  "author": "RhuanArquiles",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.3"
