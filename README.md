@@ -11,4 +11,8 @@ Ao final do projeto serão apresentadas:
  ![image](https://github.com/RhuanArquiles/sport-recife/assets/121069366/32b121a6-ee76-4e97-8b1c-84aab2ad123f)
 
 
-  - Foi adicionada a página de cadastro de jogadores 
+  - Foi adicionada a página de cadastro de jogadores 07/06/23
+  
+  ![image](https://github.com/RhuanArquiles/sport-recife/assets/121069366/d48591a5-69dd-41bc-a060-faaeb5cbfd4a)
+
+
