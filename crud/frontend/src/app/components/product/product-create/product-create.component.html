@@ -1,5 +1,5 @@
 <mat-card>
-<mat-card-title>Monte sua seleção!</mat-card-title>
+<mat-card-title class="tittle">Monte sua seleção!</mat-card-title>
     <form>
         <mat-form-field>
             <input matInput placeholder="Nome do jogador" 
@@ -14,12 +14,12 @@
              [(ngModel)]="product.camisa" name="camisa">
         </mat-form-field>
     </form>
-    <button mat-raised-button (click)="creatProduct()" color="primary">
-        Adicionar
+    <button mat-raised-button (click)="creatProduct()" class="addButton">
+        ADICIONAR
     </button>
     
-    <button mat-raised-button (click)="cancel()" color="red">
-        Cancelar
+    <button mat-raised-button (click)="cancel()" class="cancelButton">
+        CANCELAR
     </button>
 </mat-card>
 
