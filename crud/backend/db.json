@@ -2,18 +2,21 @@
   "players": [
     {
       "id": 1,
+      "camisa": "1",
       "name": "Magrão",
       "position": "GoalKepper"
     },
     {
-      "id": 2,
       "name": "Diego Souza",
-      "position": "Attacker"
+      "position": "Attacker",
+      "camisa": "87",
+      "id": 2
     },
     {
-      "id": 3,
       "name": "Durval",
-      "position": "Defender"
+      "position": "Defender",
+      "camisa":"4",
+      "id": 3
     }
   ]
 }

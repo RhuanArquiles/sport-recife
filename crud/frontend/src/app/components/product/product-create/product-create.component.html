@@ -1,0 +1,25 @@
+<mat-card>
+<mat-card-title>Monte sua seleção!</mat-card-title>
+    <form>
+        <mat-form-field>
+            <input matInput placeholder="Nome do jogador" 
+            [(ngModel)]="product.name" name="name">
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="Posição do jogador"
+             [(ngModel)]="product.position" name="position">
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="Número da camisa"
+             [(ngModel)]="product.camisa" name="camisa">
+        </mat-form-field>
+    </form>
+    <button mat-raised-button (click)="creatProduct()" color="primary">
+        Adicionar
+    </button>
+    
+    <button mat-raised-button (click)="cancel()" color="red">
+        Cancelar
+    </button>
+</mat-card>
+
