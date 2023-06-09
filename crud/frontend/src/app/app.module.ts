@@ -25,6 +25,9 @@ import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 import { MatFormFieldModule} from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
+import { ProductReadComponent } from './components/product/product-read/product-read.component';
+import { JogadoresSportComponent } from './components/jogadores-sport/jogadores-sport.component';
+import { NoticiasComponent } from './components/noticias/noticias.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -36,6 +39,9 @@ import { MatInputModule } from '@angular/material/input';
     RedDirective,
     ForDirective,
     ProductCreateComponent,
+    ProductReadComponent,
+    JogadoresSportComponent,
+    NoticiasComponent,
 
   ],
   imports: [
